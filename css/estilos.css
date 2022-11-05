@@ -17,3 +17,10 @@ body
 {
     border: 1px solid #ddd;
 }
+
+#Continer2{
+    background: rgba(121, 121, 121, 0.486);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: "Arial";
+}
