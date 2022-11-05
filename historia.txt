@@ -9,9 +9,5 @@ esta historia comienza en la ciudad de Bogota DC
 
 Este es un parrafo de prueba, para probar el merge en git (yo jamas seria sureños)
 que buen parrafo me monte EH
-<<<<<<< HEAD
 Era hace una vez :)
-=======
 
-En esta hermosa historia eh echo algo muy bonito
->>>>>>> footer
